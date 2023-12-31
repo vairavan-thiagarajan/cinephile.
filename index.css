@@ -1,0 +1,35 @@
+html {
+    background: #ffffff00;
+}
+.navbar-toggler {
+    border: none;
+    font-size: 1.25rem;
+}
+.navbar-nav {
+    justify-content:end;
+} 
+.nav-item {
+    font-weight: 500;
+}
+.navbar {
+    background: #F4BF96;
+    height: 80px;
+    margin: 20px;
+    border-radius: 16px;
+    padding: 0.5rem;
+}
+.hero-font {
+    font-family: 'DM Serif Display', serif;
+}
+.text-highlight-1 {
+    color: #F4BF96;
+}
+.crd1 {
+    display: grid;
+}
+#custom-cards {
+    margin-top: -80px;
+}
+.sub-head {
+    font-family: 'Playfair Display', serif;
+}
